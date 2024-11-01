@@ -1,0 +1,7 @@
+{
+    "name": "sharespring/swiftpic-wordpress-plugin",
+    "description": "Helper functions for image resizing in theme development using SwiftPic. https://swiftpic.io/",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
